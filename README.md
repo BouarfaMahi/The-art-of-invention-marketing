@@ -263,7 +263,7 @@ Avoid companies that use your proposition to request invention funding. The usua
 
 In a given sector of activity:
 
-First of all, look for a professional event, such as an exhibition, where corresponding manufacturers will display their products. Obtain the exhibitor's guide, either by buying it or studying it at the Chamber of Commerce. Read the specialized written press from the last twelve months and fill out the documentation request card. Use the internet by consulting major search engines, specialized directories such as [Thomas Register](https://web.archive.org/web/20120101051239/http://www.thomasregister.com/) and [Kompass](https://web.archive.org/web/20111217042453/http://us.kompass.com/)., and indicating key words related to your invention. Supplement this information by contacting product distributors.
+First of all, look for a professional event, such as an exhibition, where corresponding manufacturers will display their products. Obtain the exhibitor's guide, either by buying it or studying it at the Chamber of Commerce. Read the specialized written press from the last twelve months and fill out the documentation request card. Use the internet by consulting major search engines, specialized directories such as [Thomas Register](https://www.thomasregister.com/) and [Kompass](https//us.kompass.com/)., and indicating key words related to your invention. Supplement this information by contacting product distributors.
 
 This first approach is carried out through the Vice-President of Marketing, for he or she gives a marketing dimension to the pre-development of the new product that you are proposing. The information that he or she gives you will be useful and reliable, and will be a worthwhile supplement to the innova-book. Retain only qualitative information; quantitative information brings about a limit.
 
@@ -276,7 +276,9 @@ ___
 
 </center>
 
-If a manufacturer contacts you, fax him or her the non-disclosure agreement, set up an appointment, and send the [US Patent and Trademark Office (USPTO)](https://web.archive.org/web/20111222042728/http://www.uspto.gov/) a [Disclosure Document of the Disclosure Document Program](https://web.archive.org/web/20111227021337/http://www.uspto.gov/web/offices/pac/disdo.html) containing the innova-book's most important presentation files.
+If a manufacturer contacts you, fax him or her the non-disclosure agreement and set up an appointment. 
+
+Prior to these discussions, or ideally as early as possible in the development of your invention, consider submitting a [Provisional Patent Application](https://www.uspto.gov/patents/basics/apply/provisional-application) to the [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/). This application should include detailed descriptions and, if applicable, the most important presentation files related to your innovation
 
 Next, sign the non-disclosure agreement with the manufacturer and present him or her the press-book.
 
