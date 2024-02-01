@@ -87,7 +87,7 @@ The introductory letter announces the project's existence as well as its advance
 The non-disclosure agreement defines the legal framework in which the information exchanges are to be carried out, and precedes the co-operation agreement. The requirements of the non-disclosure agreement invite the manufacturer to commit him or herself morally and in return we are expected to provide a high-quality of information.
 #### The Introductory Letter
 
-[Download the introduction letter](https://github.com/BouarfaMahi/The-art-of-invention-marketing/blob/main/documents/letter.doc) (Right-click and save)
+[Download the introduction letter](documents/letter.docx) (Right-click and save)
 
 Dear Sir,
 
@@ -100,7 +100,7 @@ Yours faithfully (Note: if you are addressing the letter to named person, sign Y
 #### The Product/Description File 3
 
 
-[Download the product/description file](https://github.com/BouarfaMahi/The-art-of-invention-marketing/blob/main/documents/product.doc) (Right-click and save)
+[Download the product/description file](documents/product.docx) (Right-click and save)
 
 - **Product**: Name the product according to its function.
 - **Industrial applications**: Specify the industrial sectors affected by the product.
@@ -115,7 +115,7 @@ Yours faithfully (Note: if you are addressing the letter to named person, sign Y
 
 #### The Non-Disclosure Agreement
 
-[Download the non-disclosure agreement]([file.doc](https://github.com/BouarfaMahi/The-art-of-invention-marketing/blob/main/documents/nda.doc)) (Right-click and save)
+[Download the non-disclosure agreement]([file.docx](documents/nda.docx)) (Right-click and save)
 
 <p align="center"><strong>NON - DISCLOSURE AGREEMENT</strong></p>
 
