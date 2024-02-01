@@ -115,7 +115,7 @@ Yours faithfully (Note: if you are addressing the letter to named person, sign Y
 
 #### The Non-Disclosure Agreement
 
-[Download the non-disclosure agreement]([file.docx](documents/nda.docx)) (Right-click and save)
+[Download the non-disclosure agreement](documents/nda.docx) (Right-click and save)
 
 <p align="center"><strong>NON - DISCLOSURE AGREEMENT</strong></p>
 
