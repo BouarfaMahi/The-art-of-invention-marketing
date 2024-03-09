@@ -1,6 +1,6 @@
 # The Art of Invention Marketing
 
-## Free tips for marketing your invention to potential licensees
+## Tips for marketing your invention to potential licensees
 
 
 ## Preface
