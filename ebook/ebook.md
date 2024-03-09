@@ -61,18 +61,18 @@ Starting from the pre-development, the innovator creates a group of documents ca
 The introductory letter announces the project's existence as well as its advancement, and asks the manufacturer about his or her interest in developing, manufacturing and marketing the product. It should be addressed to the Vice-President of Marketing or, if that is not possible, to the President. The product/description file positions the product on the market without revealing the invention.
 
 The non-disclosure agreement defines the legal framework in which the information exchanges are to be carried out, and precedes the co-operation agreement. The requirements of the non-disclosure agreement invite the manufacturer to commit him or herself morally and in return we are expected to provide a high-quality of information.
-#### The Introductory Letter
+
+#### The Introductory Letter 
 
 
-Dear Sir,
+Dear Sir
 
-Dear Sir,
 As an independent inventor I have pre-developed a …product name … which is designed for the … industrial applications …. At the present time I am looking for potential partners who would be interested in developing, manufacturing and marketing this device for which we are in the process of getting a patent. On your request, I will make a presentation with a non-disclosure agreement.
 
 Yours faithfully (Note: if you are addressing the letter to named person, sign Yours Sincerely)
 
 
-#### The Product/Description File 3
+#### The Product/Description 
 
 
 - **Product**: Name the product according to its function.
