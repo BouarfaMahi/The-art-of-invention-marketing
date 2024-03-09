@@ -68,9 +68,13 @@ The non-disclosure agreement defines the legal framework in which the informatio
 
 Dear Sir
 
-As an independent inventor I have pre-developed a …product name … which is designed for the … industrial applications …. At the present time I am looking for potential partners who would be interested in developing, manufacturing and marketing this device for which we are in the process of getting a patent. On your request, I will make a presentation with a non-disclosure agreement.
+I am writing to introduce a product I have pre-developed, specifically designed for industrial applications. Currently, I am seeking potential partners interested in further developing, manufacturing, and marketing this device. We are in the process of securing a patent for it. Upon your request, I am prepared to provide a detailed presentation, subject to a non-disclosure agreement.
 
-Yours faithfully (Note: if you are addressing the letter to named person, sign Yours Sincerely)
+Yours faithfully
+___________
+
+Inventor name
+
 
 
 #### The Product/Description 
@@ -123,6 +127,7 @@ Article 7 - COMING INTO FORCE - CHANGES
 
 Article 8 - LITIGATIONS
 All disputes arising in connection with the instant Non Disclosure Agreement shall be finally settled in accordance with the law of the state of State name. **IN WITNESS WHEREOF** the accredited representatives of the Parties have caused the present Agreement to be executed as of the date first written above.
+
 
 **COMPANY NAME** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INVENTOR NAME**
 
