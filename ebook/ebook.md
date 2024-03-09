@@ -55,9 +55,10 @@ Sales begin once this initial contact is established. Strictly speaking, there i
 
 As explained in the introduction, the greatest difficulty at this level is knowing exactly what is being sold. Indeed, we are selling neither a manufactured good, nor a provision of a service, and not even research. Rather, we are selling intellectual property. So the pre-development of the product stands out as a collection of information which partly defines the intellectual property.
 
-Starting from the pre-development, the innovator creates a group of documents called the innova-book, presented in the form of a pro-book; also included is a communication dossier in the form of a press-book. So in your second approach, the sales tools consist of the innova-book and the press-book, which we will define in greater detail later.
+Starting from the pre-development, the innovator creates a group of documents called the Innova-Book, presented in the form of a pro-book; also included is a communication dossier in the form of a press-book. So in your second approach, the sales tools consist of the Innova-Book and the press-book, which we will define in greater detail later.
 
 ### Canvassing Tools
+
 The introductory letter announces the project's existence as well as its advancement, and asks the manufacturer about his or her interest in developing, manufacturing and marketing the product. It should be addressed to the Vice-President of Marketing or, if that is not possible, to the President. The product/description file positions the product on the market without revealing the invention.
 
 The non-disclosure agreement defines the legal framework in which the information exchanges are to be carried out, and precedes the co-operation agreement. The requirements of the non-disclosure agreement invite the manufacturer to commit him or herself morally and in return we are expected to provide a high-quality of information.
@@ -133,9 +134,10 @@ All disputes arising in connection with the instant Non Disclosure Agreement sha
 
 
 
+
 ### Sales Tools
 
-The innova-book presents the progression of both the product's pre-development and its applications.
+The Innova-Book presents the progression of both the product's pre-development and its applications.
 
 Through numerous illustrations and a limited written description, the press-book conveys the product idea.
 
@@ -238,7 +240,7 @@ In a given sector of activity:
 
 First of all, look for a professional event, such as an exhibition, where corresponding manufacturers will display their products. Obtain the exhibitor's guide, either by buying it or studying it at the Chamber of Commerce. Read the specialized written press from the last twelve months and fill out the documentation request card. Use the internet by consulting major search engines, specialized directories such as Thomas Register and Kompass, and indicating key words related to your invention. Supplement this information by contacting product distributors.
 
-This first approach is carried out through the Vice-President of Marketing, for he or she gives a marketing dimension to the pre-development of the new product that you are proposing. The information that he or she gives you will be useful and reliable, and will be a worthwhile supplement to the innova-book. Retain only qualitative information; quantitative information brings about a limit.
+This first approach is carried out through the Vice-President of Marketing, for he or she gives a marketing dimension to the pre-development of the new product that you are proposing. The information that he or she gives you will be useful and reliable, and will be a worthwhile supplement to the Innova-Book. Retain only qualitative information; quantitative information brings about a limit.
 
 Never contact the Director of Research and Development, who represents a technical continuation of your proposition. A meeting with him could, however, provide a small part of a solution which you had not previously considered. The introductory letter and the product/description file should be sent by fax and the internet. A web site brings these two prospecting tools together, and should be referenced on internet search engines. In particular, key words related to your invention should be referenced.
 
@@ -266,9 +268,9 @@ How can I assist you?
 
 Listen actively and note down the responses carefully. Encourage the person with whom you are speaking to take action. The invention's value is measured by the perception of a change in the manufacturer's behaviour.
 
-If the manufacturer is interested, have him or her date and sign each page of a photocopy of the innova-book. You should keep those photocopies. You should then give him the innova-book and look over it together. The first page of the innova-book should contain the company's name as well as a colour logo. In order to enhance its value, the innova-book should be well-presented and well-bound such as Panodia's pro-book. At this point, it is too early to engage in a full discussion of the contract's Cash and Royalty values.
+If the manufacturer is interested, have him or her date and sign each page of a photocopy of the Innova-Book. You should keep those photocopies. You should then give him the Innova-Book and look over it together. The first page of the Innova-Book should contain the company's name as well as a colour logo. In order to enhance its value, the Innova-Book should be well-presented and well-bound such as Panodia's pro-book. At this point, it is too early to engage in a full discussion of the contract's Cash and Royalty values.
 
-If after two months, the manufacturer shows no interest in the project, ask him or her to return the innova-book. If he or she is interested in the project, request a confirmation by mail or fax. After an additional waiting period, sign a contract defined by both parties and written up by a patent attorney.
+If after two months, the manufacturer shows no interest in the project, ask him or her to return the Innova-Book. If he or she is interested in the project, request a confirmation by mail or fax. After an additional waiting period, sign a contract defined by both parties and written up by a patent attorney.
 
 
 ___
