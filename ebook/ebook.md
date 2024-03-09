@@ -76,8 +76,6 @@ Yours faithfully (Note: if you are addressing the letter to named person, sign Y
 #### The Product/Description File 3
 
 
-[Download the product/description file](documents/product.docx) (Right-click and save)
-
 - **Product**: Name the product according to its function.
 - **Industrial applications**: Specify the industrial sectors affected by the product.
 - **Principle**: Present the physical or technical principle used without revealing the invention.
@@ -91,39 +89,39 @@ Yours faithfully (Note: if you are addressing the letter to named person, sign Y
 
 #### The Non-Disclosure Agreement
 
-[Download the non-disclosure agreement](documents/nda.docx) (Right-click and save)
 
-<p align="center"><strong>NON - DISCLOSURE AGREEMENT</strong></p>
+
+NON - DISCLOSURE AGREEMENT
 
 This AGREEMENT, made on this _____________ day of ____________ 1998 between INVENTOR NAME, an independent inventor with address at ............., hereinafter referred to as " THE INVENTOR " and COMPANY NAME., a company with offices at …address…, hereinafter referred to as " COMPANY NAME ", both being hereinafter jointly referred to as " the Parties "
 
-<p align="center"><strong>PREAMBLE</strong></p>
+PREAMBLE
 
 Whereas COMPANY NAME. is a United States company based in Town name, State name, which designs and manufactures …product name …for the …industrial applications… on a worldwide basis, and seeks opportunities to increase its activities in the world, either through cooperative agreements or the purchase of patents or other proprietary rights, Whereas contacts were made between the Parties and the Parties now wish to consider working together on a particular project called " product name" which is in a pre development stage and for which a patent is in process; Whereas the Parties recognize the necessity of protecting their respective proprietary rights and trade secrets, the Parties have decided first to enter in the present Non Disclosure Agreement to allow for the exchange of necessary information before then considering the opportunity for a common venture in promoting the " product name " project.
 
-<p align="center"><strong>NOW THEREFORE IT IS UNDERSTOOD AND AGREED AS FOLLOWS Article 1 - SECRECY</strong></p>
+NOW THEREFORE IT IS UNDERSTOOD AND AGREED AS FOLLOWS Article 1 - SECRECY
 1.1. With due regard to the achievement of the objective set in the above Preamble, the Parties hereto are willing to disclose to each other, on a strict confidential and need to know basis, certain information, including information related to the situation of their respective customers and / or competitors . 1.2 All such disclosed information is of a confidential nature, representing trade and business secrets and proprietary rights, and it shall be treated as strictly confidential and solely used to achieve the objective of the present Agreement. 1.3 Consequently both Parties agree to have their respective personnel, and personnel acting on their behalf, respect the obligation of secrecy protection relating to any information or material which they may have access to or knowledge of, during the performance of their activities under the present Agreement. Such personnel shall abstain from communicating any such information or material, under any form whatsoever, to a third party and from using it for any purpose other than that required for the due performance of that Party’s obligations hereunder. Such stipulation shall particularly concern any publicity or disclosure to any media in any form whatsoever of the considered or intended cooperation . 1.4 Unless a written consent in the form of a written amendment to the present agreement otherwise stipulates, both of the Parties hereto shall treat and protect the disclosed information in preventing its release, in any form whatsoever, to any third party including their respective customers, except as follows ( i ) to the extent such information is general or public knowledge, or which, after disclosure hereunder between the Parties, becomes general or public knowledge through no fault of either of the Parties hereto, or (i i ) to the extent such information can be shown by the concerned Party to have been legally in its possession prior to the receipt thereof hereunder, or ( i i i ) to the extent such information is received or purchased from any third party for use or disclosure without any restrictive obligation of use or disclosure to that third party. 1.5 Notice by either Party that it is no longer interested in the project upon the expiration of this Agreement, shall not relieve either party of the obligation of secrecy to which it is committed hereunder regarding the information disclosed. In case such a notification were to be served, all Confidential Information (including without limitation, documents, drawings, manuals, models and designs) furnished to COMPANY NAME by THE INVENTOR shall remain the property of THE INVENTOR and shall be returned to it promptly at its request, together with any copies thereof; also COMPANY NAME agrees not to participate in, or deal in the development of similar or comparable projects for a duration of three ( 3 ) years from the date first written above, without first obtaining the prior written consent of THE INVENTOR which consent shall not be unreasonably refused.
 
-<p align="center"><strong>Article 2 - AGENDA AND ACTIONS CONSIDERED</strong></p>
+Article 2 - AGENDA AND ACTIONS CONSIDERED
 
 2.1 The Parties hereto will take the following actions from the date of coming into force of the present Agreement : In a first step, they will exchange general information and prepare presentation - files to allow COMPANY NAME to gauge the interest of potential customers. The target objective in terms of time with that regard is two ( 2 ) months after the date first written above. In a second step an Agenda of Actions will be agreed upon between the Parties concerning the various approaches to be launched and followed, and the possibility of setting a cooperative arrangement . 2.2 The Parties agree to regularly keep each other informed of any response from potential customers and will try to collect any possible additional requests or observations as to their objectives, so as to have all prepared documents amended accordingly and kept up to date.
 
-<p align="center"><strong>Article 3 - NO RESTRICTION OF SALE</strong></p>
+Article 3 - NO RESTRICTION OF SALE
 Any indication hereunder to the contrary notwithstanding, nothing contained in the present Agreement is intended or implied to restrict or limit in any manner the sale or lease of the products to be issued or derived from the project, within the EEC .
 
-<p align="center"><strong>Article 4 - NOTICES</strong></p>
+Article 4 - NOTICES
 All recommendations or requests, including approvals, comments or reasons and disagreements whether submitted by either Party, or served to each other or form or to customers, shall be made in writing, together with, whenever appropriate, suggestions for changes or modifications in order to allow and facilitate the ensuing negotiations.
 
-<p align="center"><strong>Article 5 - NO WAIVER</strong></p>
+Article 5 - NO WAIVER
 The failure by any Party hereto, at any time, to require the performance by the other Party of any provision hereof whatsoever, shall in no way affect the right by such Party to require such performance at any time thereafter.
 
-<p align="center"><strong>Article 6 - ENTIRE UNDERSTANDING</strong></p>
+Article 6 - ENTIRE UNDERSTANDING
 The terms and conditions of the present Agreement constitute the entire understanding of the Parties hereto, and supersede and replace all previous commitments, whether written or not, in effect between them with respect to the subject matter hereof.
 
-<p align="center"><strong>Article 7 - COMING INTO FORCE - CHANGES</strong></p>
+Article 7 - COMING INTO FORCE - CHANGES
 7.1 The present Agreement has a duration of four ( 4 ) months from the date first written above. 7.2 Neither any change, nor any modification to the present Agreement shall be binding on either Party unless set forth in a written amendment to be signed on their behalf by the accredited representatives of both Parties .
 
-<p align="center"><strong>Article 8 - LITIGATIONS</strong></p>
+Article 8 - LITIGATIONS
 All disputes arising in connection with the instant Non Disclosure Agreement shall be finally settled in accordance with the law of the state of State name. **IN WITNESS WHEREOF** the accredited representatives of the Parties have caused the present Agreement to be executed as of the date first written above.
 
 **COMPANY NAME** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INVENTOR NAME**
@@ -239,18 +237,18 @@ Avoid companies that use your proposition to request invention funding. The usua
 
 In a given sector of activity:
 
-First of all, look for a professional event, such as an exhibition, where corresponding manufacturers will display their products. Obtain the exhibitor's guide, either by buying it or studying it at the Chamber of Commerce. Read the specialized written press from the last twelve months and fill out the documentation request card. Use the internet by consulting major search engines, specialized directories such as [Thomas Register](https://www.thomasregister.com/) and [Kompass](https//us.kompass.com/)., and indicating key words related to your invention. Supplement this information by contacting product distributors.
+First of all, look for a professional event, such as an exhibition, where corresponding manufacturers will display their products. Obtain the exhibitor's guide, either by buying it or studying it at the Chamber of Commerce. Read the specialized written press from the last twelve months and fill out the documentation request card. Use the internet by consulting major search engines, specialized directories such as Thomas Register and Kompass, and indicating key words related to your invention. Supplement this information by contacting product distributors.
 
 This first approach is carried out through the Vice-President of Marketing, for he or she gives a marketing dimension to the pre-development of the new product that you are proposing. The information that he or she gives you will be useful and reliable, and will be a worthwhile supplement to the innova-book. Retain only qualitative information; quantitative information brings about a limit.
 
 Never contact the Director of Research and Development, who represents a technical continuation of your proposition. A meeting with him could, however, provide a small part of a solution which you had not previously considered. The introductory letter and the product/description file should be sent by fax and the internet. A web site brings these two prospecting tools together, and should be referenced on internet search engines. In particular, key words related to your invention should be referenced.
 
 Consider also the opportunity to place an advertisement on the specialized written press where you can submit your ideas and rough drawings. 
-<center>
+
 
 ___
 
-</center>
+
 
 If a manufacturer contacts you, fax him or her the non-disclosure agreement and set up an appointment. 
 
@@ -272,11 +270,11 @@ Listen actively and note down the responses carefully. Encourage the person with
 If the manufacturer is interested, have him or her date and sign each page of a photocopy of the innova-book. You should keep those photocopies. You should then give him the innova-book and look over it together. The first page of the innova-book should contain the company's name as well as a colour logo. In order to enhance its value, the innova-book should be well-presented and well-bound such as Panodia's pro-book. At this point, it is too early to engage in a full discussion of the contract's Cash and Royalty values.
 
 If after two months, the manufacturer shows no interest in the project, ask him or her to return the innova-book. If he or she is interested in the project, request a confirmation by mail or fax. After an additional waiting period, sign a contract defined by both parties and written up by a patent attorney.
-<center>
+
 
 ___
 
-</center>
+
 
 In general, negotiation concerns four terms linked to the intellectual property's sale:
 
