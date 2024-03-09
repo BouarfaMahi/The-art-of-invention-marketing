@@ -38,12 +38,12 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 ### Status of the Product under Development 1
 
-![Status Image](https://github.com/BouarfaMahi/The-art-of-invention-marketing/blob/main/images/status.gif)
+![Status Image](figures/status.gif)
 
 1 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor.
 
 ### Phases of the Development Process 2
-![Ideal Concepts Image](https://github.com/BouarfaMahi/The-art-of-invention-marketing/blob/main/images/phases.gif)
+![Ideal Concepts Image](figures/phases.gif)
 
 2 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor. I added the notes located in the lower right table.
 
@@ -63,7 +63,6 @@ The introductory letter announces the project's existence as well as its advance
 The non-disclosure agreement defines the legal framework in which the information exchanges are to be carried out, and precedes the co-operation agreement. The requirements of the non-disclosure agreement invite the manufacturer to commit him or herself morally and in return we are expected to provide a high-quality of information.
 #### The Introductory Letter
 
-[Download the introduction letter](documents/letter.docx) (Right-click and save)
 
 Dear Sir,
 

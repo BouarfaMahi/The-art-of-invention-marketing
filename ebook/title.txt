@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: The Art of Invention Marketing
+- type: subtitle
+  text: Tips for marketing your invention to potential licensees
+creator:
+- role: author
+  text: Dr Bouarfa Mahi
+rights: © 2024 Dr Bouarfa Mahi, CC BY-NC
+ibooks:
+  version: 1.0.0
+...
