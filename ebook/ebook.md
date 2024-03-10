@@ -7,29 +7,29 @@
 
 Confronted with the daily realities of our society, have you discovered original solutions to either a technical problem or some other need? Are you now looking for a company to industrialize this invention? In order to help you in this procedure, I am offering you this guide. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
 
-It will help you carry out your work as an innovator more efficiently and show you how to shoulder your responsibilities so that you can overcome the difficulties that are inherent in launching new products.
+It will help you carry out your work as an innovator more efficiently, and show you how to shoulder your responsibilities so that you can overcome the difficulties that are inherent in launching new products.
 
 ## Introduction
 
-It is well known that selling a new idea for a product as an intellectual property, usually calls for the making of a prototype which is then presented to the interested manufacturer. However, there is a paradox in this approach because it leads us to associate material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of intellectual property.
+It is well known that selling a new idea for a product as an Intellectual Property, usually calls for the making of a prototype which is then presented to the interested manufacturer. However, there is a paradox in this approach because it leads us to associate material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of Intellectual Property.
 
-Research into the canvassing and sale of intellectual property, according to the marketing process, has led me to the conclusion that the pre-development of an idea is the essential working basis. This guide is the result of my research, and enables us to act efficiently in the steps that we take as innovators.
+Research into the canvassing and sale of Intellectual Property, according to the marketing process, has led me to the conclusion that the pre-development of an idea is the essential working basis. This guide is the result of my research, and enables us to act efficiently in the steps that we take as innovators.
 
 ## Intellectual Property
 
-In relation to the invention or new product, an intellectual property is partly defined as a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points give the innovator the property right. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the intellectual property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
+In relation to the invention or new product, an Intellectual Property is partly defined as a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points give the innovator the property right. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the Intellectual Property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
 
 First, it is clear that the meeting point between the innovator and the manufacturer is located during the development of the product. In analyzing the status of the product under development and the phases of the development process described in Les Techniques de l'Ingénieur in the section on Conception of Industrial Products, it is easy to put the innovator and the manufacturer into the regions (A) and (B), respectively. In order to create and transmit the collection of information from A to B, the only way is to make a path defined by the product's pre-development (AB), so that the innovator can communicate with the manufacturer.
 
-So the important collection of information is the pre-development of the product (AB), which defines in part the intellectual property.
+So the important collection of information is the pre-development of the product (AB), which defines in part the Intellectual Property.
 
-From another marketing standpoint - as we will see in the following paragraphs - a great deal of importance will be attached to the package of the intellectual property, in both content and form
+From another marketing standpoint - as we will see in the following paragraphs - a great deal of importance will be attached to the package of the Intellectual Property, in both content and form
 
-In addition, with regards to the sale of the intellectual property, it is interesting to note that the cost of pre-development (AB) constitutes a cost price inferior to the market value of the intellectual property in terms of cash, since the Royalties are linked to the product's launching (C).
+In addition, with regards to the sale of the Intellectual Property, it is interesting to note that the cost of pre-development (AB) constitutes a cost price inferior to the market value of the Intellectual Property in terms of cash, since the Royalties are linked to the product's launching (C).
 
-It is also necessary to define the canvassing and sales tools of the intellectual property starting from its pre-development. We have observed that the collection of information becomes clearer when we move successively from the intellectual property to the pre-development, and then to the canvassing and sales tools.
+It is also necessary to define the canvassing and sales tools of the Intellectual Property starting from its pre-development. We have observed that the collection of information becomes clearer when we move successively from the Intellectual Property to the pre-development, and then to the canvassing and sales tools.
 
-To sum up, our marketing strategy has enabled us to incorporate the complex notion of intellectual property characterized by:
+To sum up, our marketing strategy has enabled us to incorporate the complex notion of Intellectual Property characterized by:
 -pre-development
 -package
 -cost price
@@ -51,9 +51,9 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 Canvassing includes all activities with the goal of attracting potential manufacturing partners and making contact with them, either by visiting them or having them visit you. In the first approach that you make, the canvassing tools consist of a classical introductory letter, a product/description file and a non-disclosure agreement, which we will define later.
 
-Sales begin once this initial contact is established. Strictly speaking, there is no sale until you are in front of a potential industrial partner, whom you are trying to convince to buy the intellectual property or new product.
+Sales begin once this initial contact is established. Strictly speaking, there is no sale until you are in front of a potential industrial partner, whom you are trying to convince to buy the Intellectual Property or new product.
 
-As explained in the introduction, the greatest difficulty at this level is knowing exactly what is being sold. Indeed, we are selling neither a manufactured good, nor a provision of a service, and not even research. Rather, we are selling intellectual property. So the pre-development of the product stands out as a collection of information which partly defines the intellectual property.
+As explained in the introduction, the greatest difficulty at this level is knowing exactly what is being sold. Indeed, we are selling neither a manufactured good, nor a provision of a service, and not even research. Rather, we are selling Intellectual Property. So the pre-development of the product stands out as a collection of information which partly defines the Intellectual Property.
 
 Starting from the pre-development, the innovator creates a group of documents called the Innova-Book, presented in the form of a pro-book; also included is a communication dossier in the form of a press-book. So in your second approach, the sales tools consist of the Innova-Book and the press-book, which we will define in greater detail later.
 
@@ -97,7 +97,7 @@ Inventor name
 
 NON - DISCLOSURE AGREEMENT
 
-This AGREEMENT, made on this _____________ day of ____________ 1998 between INVENTOR NAME, an independent inventor with address at ............., hereinafter referred to as " THE INVENTOR " and COMPANY NAME., a company with offices at …address…, hereinafter referred to as " COMPANY NAME ", both being hereinafter jointly referred to as " the Parties "
+This AGREEMENT, made on this _____________ day of ____________ 2024 between INVENTOR NAME, an independent inventor with address at ............., hereinafter referred to as " THE INVENTOR " and COMPANY NAME., a company with offices at …address…, hereinafter referred to as " COMPANY NAME ", both being hereinafter jointly referred to as " the Parties "
 
 PREAMBLE
 
@@ -146,13 +146,13 @@ The Innova-Book presents the progression of both the product's pre-development a
 
 Through numerous illustrations and a limited written description, the press-book conveys the product idea.
 
-The pro-book and the press-book should be well presented and beautifully bound in order to enhance the value of the intellectual property. This package reflects the unfinished nature of the pre-development, so it would be worthwhile using illustrations, carefully chosen paper and fonts, and finally, technical sketches rather than technical drawings.
+The pro-book and the press-book should be well presented and beautifully bound in order to enhance the value of the Intellectual Property. This package reflects the unfinished nature of the pre-development, so it would be worthwhile using illustrations, carefully chosen paper and fonts, and finally, technical sketches rather than technical drawings.
 
 This natural and efficient presentation of the new project has the following consequences:
 
 -Both qualitatively and quantitatively, it develops the idea, while at the same time enhancing its value for sales.
 -It eliminates eventual objections on the part of the manufacturer
--It separates the notion of intellectual property from the notion of material good because it does not present a prototype to the manufacturer.
+-It separates the notion of Intellectual Property from the notion of material good because it does not present a prototype to the manufacturer.
 -It frees the manufacturer to use his or her imagination.
 -It allows the innovator to measure the degree of the manufacturer's interest
 -It leads the manufacturer to participate actively in the product's development when creating the prototype-that being the logical step after the pre-development.
@@ -282,7 +282,7 @@ ___
 
 
 
-In general, negotiation concerns four terms linked to the intellectual property's sale:
+In general, negotiation concerns four terms linked to the Intellectual Property's sale:
 
 - **Cash**
 - **Royalties**
