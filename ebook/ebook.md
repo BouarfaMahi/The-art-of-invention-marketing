@@ -17,7 +17,7 @@ Research into the canvassing and sale of Intellectual Property, according to the
 
 ## Intellectual Property
 
-In relation to the invention or new product, Intellectual Property is partly defined as a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the Intellectual Property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
+In relation to the invention or new product, Intellectual Property is defined in part by a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the Intellectual Property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
 
 First, it is clear that the meeting point between the innovator and the manufacturer is located during the development of the product. In analyzing the status of the product under development and the phases of the development process described in Les Techniques de l'Ingénieur in the section on Conception of Industrial Products, it is easy to put the innovator and the manufacturer into the regions (A) and (B), respectively. In order to create and transmit the collection of information from A to B, the only way is to make a path defined by the product's pre-development (AB), so that the innovator can communicate with the manufacturer.
 
@@ -49,7 +49,7 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 ## Canvassing and Sales Tools
 
-Canvassing includes all activities with the goal of attracting potential manufacturing partners and making contact with them, either by visiting them or having them visit you. In the first approach that you make, the canvassing tools consist of a classical introductory letter, a product/description file and a non-disclosure agreement, which we will define later.
+Canvassing includes all activities with the goal of attracting potential manufacturing partners and making contact with them, either by visiting them or having them visit you. In the first approach that you make, the canvassing tools includs a standard introductory letter, a product/description file and a non-disclosure agreement, which we will define later.
 
 Sales begin once this initial contact is established. Strictly speaking, there is no sale until you are in front of a potential industrial partner, whom you are trying to convince to buy the Intellectual Property or new product.
 
