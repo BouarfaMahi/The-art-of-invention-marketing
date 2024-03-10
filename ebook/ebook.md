@@ -5,19 +5,19 @@
 
 ## Preface
 
-Confronted with the daily realities of our society, have you discovered original solutions to either a technical problem or some other need? Are you now looking for a company to industrialize this invention? In order to help you in this procedure, I am offering you this guide. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
+Faced with the daily challenges of our society, have you developed innovative solutions to a technical problem or another need? If you are seeking a company to industrialize your invention, this guide aims to assist you in this endeavor. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
 
 It will help you carry out your work as an innovator more efficiently, and show you how to shoulder your responsibilities so that you can overcome the difficulties that are inherent in launching new products.
 
 ## Introduction
 
-It is well known that selling a new idea for a product as an Intellectual Property usually calls for the making of a prototype which is then presented to the interested manufacturer. However, there is a paradox in this approach because it leads us to associate material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of Intellectual Property.
+It is well known that selling a new idea for a product as an Intellectual Property usually calls for the making of a prototype which is then presented to the interested manufacturer. However, this approach presents a paradox, as it associates material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of Intellectual Property.
 
 Research into the canvassing and sale of Intellectual Property, according to the marketing process, has led me to the conclusion that the pre-development of an idea is the essential working basis. This guide is the result of my research and enables us to act efficiently in the steps that we take as innovators.
 
 ## Intellectual Property
 
-In relation to the invention or new product, Intellectual Property is partly defined as a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points give the innovator the property right. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the Intellectual Property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
+In relation to the invention or new product, Intellectual Property is partly defined as a collection of information to which a patent or a design patent or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the Intellectual Property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
 
 First, it is clear that the meeting point between the innovator and the manufacturer is located during the development of the product. In analyzing the status of the product under development and the phases of the development process described in Les Techniques de l'Ingénieur in the section on Conception of Industrial Products, it is easy to put the innovator and the manufacturer into the regions (A) and (B), respectively. In order to create and transmit the collection of information from A to B, the only way is to make a path defined by the product's pre-development (AB), so that the innovator can communicate with the manufacturer.
 
@@ -70,7 +70,7 @@ Dear Sir,
 
 I am writing to introduce a product I have pre-developed, specifically designed for industrial applications. Currently, I am seeking potential partners interested in further developing, manufacturing, and marketing this device. We are in the process of securing a patent for it. Upon your request, I am prepared to provide a detailed presentation, subject to a non-disclosure agreement.
 
-Yours faithfully
+Yours faithfully,
 ___________
 
 Inventor name
