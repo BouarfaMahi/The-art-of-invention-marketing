@@ -5,13 +5,13 @@
 
 ## Preface
 
-Faced with the daily challenges of our society, have you developed innovative solutions to a technical problem or another need? If you are seeking a company to industrialize your invention, this guide aims to assist you in this endeavor. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
+Faced with the daily challenges of our society, have you developed innovative solutions to a technical problem or another need? If you are seeking a company to industrialize your invention, this guide aims to help you turn your ideas into reality. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
 
 It will help you carry out your work as an innovator more efficiently, and show you how to shoulder your responsibilities so that you can overcome the difficulties that are inherent in launching new products.
 
 ## Introduction
 
-It is well known that selling a new idea for a product as an intellectual property usually calls for the making of a prototype which is then presented to the interested manufacturer. However, this approach presents a paradox, as it associates material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of intellectual property.
+It is well known that selling a new idea for a product as an intellectual property usually calls for creating a prototype to present to potential manufacturers. However, this approach presents a paradox, as it associates material goods with the sale of immaterial goods. The lack of a definition of the goods for sale brings this to the fore because there is no line drawn between the task of the innovator and the task assigned to the manufacturer. At present, there is no method of operation which makes it possible to eliminate this problem from the sale of intellectual property.
 
 Research into the canvassing and sale of intellectual property, according to the marketing process, has led me to the conclusion that the pre-development of an idea is the essential working basis. This guide is the result of my research and enables us to act efficiently in the steps that we take as innovators.
 
