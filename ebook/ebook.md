@@ -17,7 +17,7 @@ Research into the canvassing and sale of intellectual property, according to the
 
 ## Intellectual Property
 
-In relation to the invention or new product, intellectual property is defined in part by a collection of information to which a patent, or a design patent, or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider buying the intellectual property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
+In relation to the invention or new product, intellectual property is defined in part by a collection of information to which a patent, or a design patent, or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider purchassing the intellectual property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
 
 First, it is clear that the meeting point between the innovator and the manufacturer is located during the development of the product. In analyzing the status of the product under development and the phases of the development process described in Les Techniques de l'Ingénieur in the section on Conception of Industrial Products, it is easy to put the innovator and the manufacturer into the regions (A) and (B), respectively. In order to create and transmit the collection of information from A to B, the only way is to make a path defined by the product's pre-development (AB), so that the innovator can communicate with the manufacturer.
 
@@ -55,7 +55,7 @@ Sales begin once this initial contact is established. Strictly speaking, there i
 
 As explained in the introduction, the greatest difficulty at this level is knowing exactly what is being sold. Indeed, we are selling neither a manufactured good, nor a provision of a service, and not even research. Rather, we are selling intellectual property. So the pre-development of the product stands out as a collection of information which partly defines the intellectual property.
 
-Starting from the pre-development, the innovator creates a group of documents called the Innova-Book, presented in the form of a pro-book; also included is a communication dossier in the form of a press-book. So in your second approach, the sales tools consist of the Innova-Book and the press-book, which we will define in greater detail later.
+Starting from the pre-development, the innovator creates a group of documents called the Innova-Book, presented in the form of a Pro-Book; also included is a communication dossier in the form of a Press-Book. So in your second approach, the sales tools consist of the Innova-Book and the Press-Book, which we will define in greater detail later.
 
 ### Canvassing Tools
 
@@ -144,9 +144,9 @@ All disputes arising in connection with the instant Non Disclosure Agreement sha
 
 The Innova-Book presents the progression of both the product's pre-development and its applications.
 
-Through numerous illustrations and a limited written description, the press-book conveys the product idea.
+Through numerous illustrations and a limited written description, the Press-Book conveys the product idea.
 
-The pro-book and the press-book should be well presented and beautifully bound in order to enhance the value of the intellectual property. This package reflects the unfinished nature of the pre-development, so it would be worthwhile using illustrations, carefully chosen paper and fonts, and finally, technical sketches rather than technical drawings.
+The Pro-Book and the Press-Book should be well presented and beautifully bound in order to enhance the value of the intellectual property. This package reflects the unfinished nature of the pre-development, so it would be worthwhile using illustrations, carefully chosen paper and fonts, and finally, technical sketches rather than technical drawings.
 
 This natural and efficient presentation of the new project has the following consequences:
 
@@ -260,9 +260,9 @@ If a manufacturer contacts you, fax him or her the non-disclosure agreement and 
 
 Prior to these discussions, or ideally as early as possible in the development of your invention, consider submitting a [Provisional Patent Application](https://www.uspto.gov/patents/basics/apply/provisional-application) to the [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/). This application should include detailed descriptions and, if applicable, the most important presentation files related to your innovation
 
-Next, sign the non-disclosure agreement with the manufacturer and present him or her the press-book.
+Next, sign the non-disclosure agreement with the manufacturer and present him or her the Press-Book.
 
-The press-book should be compiled in Panodia's eureka style. The first page should provide a general explanation of the subject. Present the product with humility and comment in detail on the collection of information within the press-book. Use the strength of silence to let the manufacturer speak. This will allow you to gather reactions, which will give you an indication of the manufacturer's attitude towards the project. Ask good and open questions in order to obtain information concerning the manufacturer's situation, problems, desires, knowledge, opinion, "vision" and needs. Examples of these questions would be:
+The Press-Book should be compiled in Panodia's eureka style. The first page should provide a general explanation of the subject. Present the product with humility and comment in detail on the collection of information within the Press-Book. Use the strength of silence to let the manufacturer speak. This will allow you to gather reactions, which will give you an indication of the manufacturer's attitude towards the project. Ask good and open questions in order to obtain information concerning the manufacturer's situation, problems, desires, knowledge, opinion, "vision" and needs. Examples of these questions would be:
 
 What characteristics do you expect from this product?
 What results to you expect from...?
@@ -273,7 +273,7 @@ How can I assist you?
 
 Listen actively and note down the responses carefully. Encourage the person with whom you are speaking to take action. The invention's value is measured by the perception of a change in the manufacturer's behaviour.
 
-If the manufacturer is interested, have him or her date and sign each page of a photocopy of the Innova-Book. You should keep those photocopies. You should then give him the Innova-Book and look over it together. The first page of the Innova-Book should contain the company's name as well as a colour logo. In order to enhance its value, the Innova-Book should be well-presented and well-bound such as Panodia's pro-book. At this point, it is too early to engage in a full discussion of the contract's Cash and Royalty values.
+If the manufacturer is interested, have him or her date and sign each page of a photocopy of the Innova-Book. You should keep those photocopies. You should then give him the Innova-Book and look over it together. The first page of the Innova-Book should contain the company's name as well as a colour logo. In order to enhance its value, the Innova-Book should be well-presented and well-bound such as Panodia's Pro-Book. At this point, it is too early to engage in a full discussion of the contract's Cash and Royalty values.
 
 If after two months, the manufacturer shows no interest in the project, ask him or her to return the Innova-Book. If he or she is interested in the project, request a confirmation by mail or fax. After an additional waiting period, sign a contract defined by both parties and written up by a patent attorney.
 
