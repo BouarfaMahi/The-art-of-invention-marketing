@@ -5,7 +5,7 @@
 
 ## Preface
 
-Faced with the daily challenges of our society, have you developed innovative solutions to technical problems or other need? If you are seeking a company to industrialize your invention, this guide aims to help you turn your ideas into reality. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
+Faced with the daily challenges of our society, have you developed innovative solutions to technical problems or other needs? If you are seeking a company to industrialize your invention, this guide aims to help you turn your ideas into reality. It will be useful if you are looking for an opportunity to review your current situation and discover your own possibilities for improvement.
 
 It will help you carry out your work as an innovator more efficiently, and demonstrates how to shoulder your responsibilities to overcome the inherent difficulties of launching new products.
 
@@ -17,7 +17,7 @@ Research into the canvassing and sale of intellectual property, according to the
 
 ## Intellectual Property
 
-In relation to the invention or new product, intellectual property is defined in part by a collection of information to which a patent, or a design patent, or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there this collection of information can be transmitted unequivocally from the innovator (A) to the manufacturer (B), who will then consider purchasing the intellectual property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
+In relation to the invention or new product, intellectual property is defined in part by a collection of information to which a patent, or a design patent, or a non-disclosure agreement must be attached. These first two legal points grant the innovator property rights. From there, the innovator (A) can unequivocally transmit this collection of information to the manufacturer (B), who will then consider purchasing the intellectual property. Our marketing approach will provide insight into the nature of this collection of information and will lead us into defining the canvassing and sales tools used by the innovator.
 
 First, it is clear that the meeting point between the innovator and the manufacturer is located during the development of the product. In analyzing the status of the product under development and the phases of the development process described in Les Techniques de l'Ingénieur in the section on Conception of Industrial Products, it is easy to put the innovator and the manufacturer into the regions (A) and (B), respectively. In order to create and transmit the collection of information from A to B, the only way is to make a path defined by the product's pre-development (AB), so that the innovator can communicate with the manufacturer.
 
@@ -51,7 +51,7 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 Canvassing includes all activities with the goal of attracting potential manufacturing partners and making contact with them, either by visiting them or having them visit you. In the first approach that you make, the canvassing tools include a standard introductory letter, a product/description file and a non-disclosure agreement, which we will define later.
 
-Sales begin once this initial contact is established. Strictly speaking, there is no sale until you are in front of a potential industrial partner, whom you are trying to convince to purchase the intellectual property or new product.
+Sales begin once this initial contact is established. Strictly speaking, there is no sale until you are in front of a potential industrial partner, whom you are trying to persuade to purchase the intellectual property or new product.
 
 As explained in the introduction, the greatest difficulty at this level is knowing exactly what is being sold. Indeed, we are selling neither a manufactured good, nor a provision of a service, and not even research. Rather, we are selling intellectual property. So the pre-development of the product stands out as a collection of information that partly defines the intellectual property.
 
@@ -66,7 +66,7 @@ The non-disclosure agreement defines the legal framework in which the informatio
 #### The Introductory Letter 
 
 
-Dear Sir,
+Dear Sir/Madam,
 
 I am writing to introduce a product I have pre-developed, specifically designed for industrial applications. Currently, I am seeking potential partners interested in further developing, manufacturing, and marketing this device. We are in the process of securing a patent for it. Upon your request, I am prepared to provide a detailed presentation, subject to a non-disclosure agreement.
 
