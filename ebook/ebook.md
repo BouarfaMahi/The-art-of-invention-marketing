@@ -38,7 +38,7 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 ### Status of the Product under Development 1
 
-![Status Image](figures/status.gif)
+![Status Image](figures/status.png)
 
 1 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor.
 
