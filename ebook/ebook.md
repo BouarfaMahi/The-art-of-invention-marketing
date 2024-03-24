@@ -36,16 +36,16 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 -canvassing and sales tools
 
 
-### Status of the Product under Development 1
+### Status of the Product under Development
 
 ![Status Image](figures/status.png)
 
 1 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor.
 
-### Phases of the Development Process 2
-![Ideal Concepts Image](figures/phases.gif)
+### Phases of the Development Process
+![Phases Image](figures/status.png)
 
-2 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor. I added the notes located in the lower right table.
+2 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor. I added the notes located in the lower right bottom.
 
 ## Canvassing and Sales Tools
 
