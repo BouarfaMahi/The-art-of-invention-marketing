@@ -1,6 +1,6 @@
 # The Art of Invention Marketing
 
-## Tips for marketing your invention to potential licensees
+## A Comprehensive Guide Through the Phases of the Development Process
 
 
 ## Preface
