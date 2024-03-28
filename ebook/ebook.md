@@ -38,12 +38,12 @@ To sum up, our marketing strategy has enabled us to incorporate the complex noti
 
 ### Status of the Product under Development
 
-![](figures/status.jpg)
+![](figures/status.png)
 
 1 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor.
 
 ### Phases of the Development Process
-![](figures/phases.jpg)
+![](figures/phases.png)
 
 2 Les Techniques de l'Ingénieur, section : Conception of Industrial Products. By courtesy of the Editor. I added the notes located in the lower right bottom.
 
